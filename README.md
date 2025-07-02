@@ -1,2 +1,2 @@
-# Yeni Proje
-Bu benim yeni GitHub projem!
+# Yeni Proje 
+Bu benim yeni GitHub projem! 
